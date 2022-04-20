@@ -6,7 +6,8 @@ import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <div class="flex justify-item-center w-full h-[5vw] bg-black"><App /></div>
+    <App />
+    
 
   </React.StrictMode>,
   document.getElementById('root')
